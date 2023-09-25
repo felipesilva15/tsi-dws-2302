@@ -33,7 +33,7 @@ public class JavaTicketClient {
             return;
         }
         
-        System.out.println(String.format("Preço do show \"%s\" é R$ %,.2f.", show, preco));
+        System.out.println(String.format("Preço do show \"%s\" é de R$ %,.2f.", show, preco));
     }
     
 }
